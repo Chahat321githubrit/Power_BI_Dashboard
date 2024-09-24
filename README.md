@@ -24,6 +24,7 @@ Seasonality:
 Profit by Month: Profit spikes in January and December, suggesting seasonality effects, possibly due to holiday promotions or end-of-year sales.
 Profit by Sub-Category:
 Highest Profit Margins: Printers and Bookcases are the most profitable sub-categories, indicating their high-margin potential.
+
 Findings:
 Geographic Trends: Maharashtra and Madhya Pradesh contribute significantly to the overall revenue, indicating these states are major markets.
 Customer Insights: A small group of customers contributes to a large portion of the sales, allowing for targeted marketing efforts.
